@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Bhartendu </h1>
 
-<!--
-**bhakuni27/bhakuni27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A **Data Science Professional** specialized in creating impactful **machine learning models**, **developing algorithms**, and delivering end-to-end **AI solutions** that enhance decision-making and operational efficiency.  
+🎓 **MSc in Data Science** - University of Sussex.  
+🌱 Passionate about solving real-world problems using data-driven insights.
 
-Here are some ideas to get you started:
+## 📫 Connect with Me
+<a href="https://linkedin.com/in/bhakuni27">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:bhartendupratap27@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+💡 *"The future is data-driven. With every dataset, there’s an opportunity to discover, innovate, and improve the world around us."*
